@@ -1,5 +1,10 @@
 # SVSegmentedView
 ios Segmented 高仿网易新闻
+</br>
+<img src="https://cloud.githubusercontent.com/assets/3062921/7172895/58856f08-e421-11e4-9bae-c4930e169ad1.jpeg"></img>
+
+# notice
+IOS 7+ ARC 编译环境Xcode 6
 
 # storyBoard:
 <pre>
